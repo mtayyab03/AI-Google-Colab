@@ -2,7 +2,7 @@
 
 ## Google Colab AI Tests
 
-This repository contains the complete implementation of all **3 AI laboratory assignments** for **COMP 6701 – Concordia University**.
+This repository contains the complete implementation of all **3 AI laboratory assignments** for **COMP 6701 ( Foundation of AI Labs) – Concordia University**.
 
 All three labs have been fully implemented using **Google Colab**, with Python code, experiments, and results.
 
